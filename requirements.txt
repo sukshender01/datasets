@@ -1,2 +1,10 @@
 streamlit==1.36.0
 pandas==2.2.2
+matplotlib==3.9.0
+faster-whisper==1.0.3
+torch>=2.2.0
+transformers==4.42.4
+sentencepiece==0.2.0
+sacrebleu==2.4.3
+jiwer==3.0.4
+reportlab==4.2.2
